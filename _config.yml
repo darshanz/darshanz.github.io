@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sudarshan Pant"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD. candidate at Mokpo National University, Department of Multimedia Engineering"
+  location         : "Muan, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=07-UOnEAAAAJ&hl=en"
   email            : "sudarshan.pant@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Sudarshan_Pant"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,17 +102,17 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sudarshanz"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/1450339/darshanz"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "darshanz"
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/Sudarshan_Pant"
   youtube          :
   wikipedia        :
 
