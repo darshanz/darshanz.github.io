@@ -12,7 +12,8 @@ redirect_from:
 
  **Sudarshan Pant**
  
-[Github](https://github.com/darshanz) • LinkedIn](www.linkedin.com/in/sudarshanz "Linkedin: Sudarshan Pant")
+[Github](https://github.com/darshanz) • [LinkedIn](www.linkedin.com/in/sudarshanz "Linkedin: Sudarshan Pant")
+
 DorimGil84-1 SeondolOneRoom104, Jeonnam Chheongye Myun, Muan
 
 
