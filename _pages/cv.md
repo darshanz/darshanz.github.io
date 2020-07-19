@@ -12,7 +12,7 @@ redirect_from:
 
  **Sudarshan Pant**
  
-+82 10 4278 8412 • email@sudarshanz.com • www.linkedin.com/in/sudarshanz  
+[Github](https://github.com/darshanz) • LinkedIn](www.linkedin.com/in/sudarshanz "Linkedin: Sudarshan Pant")
 DorimGil84-1 SeondolOneRoom104, Jeonnam Chheongye Myun, Muan
 
 
