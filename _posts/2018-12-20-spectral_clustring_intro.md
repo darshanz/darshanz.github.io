@@ -8,10 +8,6 @@ tags:
   - Clustering
 ---
 
-
-
-### Spectral Clustering 
-
 This is the first part of the multiple blogs on Spectral Clustering. I will write a few blogs related to basic concepts in Spectral clustering in this series. Below are the links to all the parts of this series.  
   
 
