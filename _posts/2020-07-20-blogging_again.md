@@ -1,7 +1,7 @@
 ---
 title: 'Blogging again'
-date: 2020-07-20
-permalink: /posts/2020/07/blogging_again/
+date: 2017-02-04
+permalink: /posts/2017/02/blogging_again/
 tags:
   - blogging, restart
   - personal 
