@@ -26,7 +26,7 @@ Gwangju, South Korea
 
 ###  WORK EXPERIENCE
 ----
-**Postdoctoral Research**     (Sept 2020 - Current)
+**Postdoctoral Researcher**     (Sept 2020 - Current)
 *Chonnam National University* 
 
  **Senior Software Engineer**     (Jun 2013 - Oct 2018)
