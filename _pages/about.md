@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Sudarshan, a PhD. candidate at Mokpo National University in the department of Multimedia Engineering. My research interests include data analysis, big data management and machine learning.
+Hi! I am Sudarshan, a Postdoc Researcher at Chonnam National University. My research interests include Machine Learning, Computer Vision and Robotics.
