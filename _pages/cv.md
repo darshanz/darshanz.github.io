@@ -14,7 +14,7 @@ redirect_from:
  
 [Github](https://github.com/darshanz) • [LinkedIn](www.linkedin.com/in/sudarshanz "Linkedin: Sudarshan Pant")
 
-Jeonnam Chheongye Myun, Muan
+Gwangju, South Korea
 
 
 ### SUMMARY
@@ -26,6 +26,9 @@ Jeonnam Chheongye Myun, Muan
 
 ###  WORK EXPERIENCE
 ----
+**Postdoctoral Research**     (Sept 2020 - Current)
+*Chonnam National University* 
+
  **Senior Software Engineer**     (Jun 2013 - Oct 2018)
 *Tek Tak Nepal Pvt. Ltd* 
 - Working as a lead mobile application developer.
@@ -57,7 +60,7 @@ robust, user-friendly applications.
 ###  EDUCATION
 ----
 
-**PhD, Multimedia Engineering** Mar 2017 - *Expected Graduation in Aug, 2020*
+**PhD, Multimedia Engineering** Mar 2017 - Aug 2020
 Mokpo National University • Jeonnam • South Korea
 
 **Master of Engineering** Mar 2010 - Feb 2012
