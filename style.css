@@ -24,8 +24,8 @@
   body
   {
       -webkit-font-smoothing:antialiased;
-      color:rgba(0,0,0,.5);
-      font-size:16px;
+      color:rgba(0,0,0,.8);
+      font-size:14px;
       font-weight:300;
       line-height:1.4;
       text-rendering:optimizeLegibility;
@@ -76,7 +76,9 @@
       top:0;
       width:85%;
   }
-  
+  .me-img:hover {
+    filter: grayscale(80%);
+  }
   .me-img
   {
       background:url(https://darshanz.github.io/images/profile.png) no-repeat center center ;
@@ -87,6 +89,7 @@
       margin:0 auto;
       position:relative;
       width:150px;
+      filter: grayscale(100%);
   }
   
   .name-hero h1
