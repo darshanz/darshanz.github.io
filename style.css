@@ -118,8 +118,7 @@
   .name-hero .name-text
   {
       margin:0 auto;
-      width:85%;
-  }
+        }
   
   .inner
   {
@@ -158,6 +157,7 @@
   .social-icons li {
       display: inline;
   }
+ 
    
   
   @media screen and (max-width: 48em) {
@@ -197,9 +197,9 @@
 }
 
 .social-icons{
-    margin-top: 50px;
+    margin-top: 15px;
     text-align: center;
-    
+    padding: 0px;
 }
 .social-icons a{
     text-decoration: none;
@@ -217,7 +217,7 @@
     display: inline-block;
     text-align: center;
     border-radius: 50%;
-    margin: 3px;
+    margin: 12px;
     transition: all 0.4s ease-in-out;
     background-color: #fff;
 }
