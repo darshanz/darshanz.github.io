@@ -135,7 +135,12 @@
       font-size:1.75em;
   }
   
-
+  .inner p a
+  {
+      color:rgba(54, 53, 53, 0.75);
+      font-style:normal;
+      text-decoration: none;
+  }
   
   .inner p em
   {
