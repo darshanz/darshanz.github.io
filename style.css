@@ -86,13 +86,14 @@
       right:0;
       top:0;
       width:85%;
+      text-align: center;
   }
   .me-img:hover {
     filter: grayscale(80%);
   }
   .me-img
   {
-      background:url(https://darshanz.github.io/images/SudarshanPant.jpg) no-repeat center center ;
+      
       background-size:100%;
       background-position:0px;
       border-radius:100%;
