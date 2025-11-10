@@ -9,6 +9,7 @@
     src: url('./fonts/Roboto-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
   }
 
   @font-face {
@@ -16,6 +17,7 @@
     src: url('./fonts/Roboto-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
+    font-display: swap;
   }
 
   html
@@ -100,7 +102,7 @@
       background-size:100%;
       background-position:0px;
       border-radius:100%;
-      height:150px;
+      height:160px;
       margin:0 auto;
       position:relative;
       width:150px;
