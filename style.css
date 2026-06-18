@@ -87,7 +87,7 @@ ul {
 }
 
 li {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 /* Two-column layout */
@@ -333,6 +333,18 @@ ul.topnav li a.active {
 ul.topnav li.right {
     float: right;
 }
+
+/* FA icon spacing */
+ul.topnav li a i {
+    margin-right: 0.3rem;
+    font-size: 0.85em;
+}
+
+.thin-text i {
+    margin-right: 0.4rem;
+    opacity: 0.6;
+}
+
 
 /* Dark mode overrides for hardcoded colors */
 @media (prefers-color-scheme: dark) {
